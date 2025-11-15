@@ -1,0 +1,35 @@
+body{
+   text-align: center;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.avatar{
+    width: 150px;
+}
+.vin{
+    padding: 20px;
+    display: flex;
+    width: 400px;
+  margin: 0px auto;
+
+  
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 10px slateblue solid;
+  justify-content: space-around;
+}
+.border-blue{
+   
+    border: 2px dotted blue;
+   
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+   
+}
+h4{
+    text-align: center;
+  
+}
